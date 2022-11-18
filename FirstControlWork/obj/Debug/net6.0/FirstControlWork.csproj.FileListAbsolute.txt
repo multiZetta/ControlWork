@@ -1,0 +1,15 @@
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\ControlWork\FirstControlWork\bin\Debug\net6.0\FirstControlWork.exe
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\ControlWork\FirstControlWork\bin\Debug\net6.0\FirstControlWork.deps.json
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\ControlWork\FirstControlWork\bin\Debug\net6.0\FirstControlWork.runtimeconfig.json
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\ControlWork\FirstControlWork\bin\Debug\net6.0\FirstControlWork.dll
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\ControlWork\FirstControlWork\bin\Debug\net6.0\FirstControlWork.pdb
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\ControlWork\FirstControlWork\obj\Debug\net6.0\FirstControlWork.csproj.AssemblyReference.cache
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\ControlWork\FirstControlWork\obj\Debug\net6.0\FirstControlWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\ControlWork\FirstControlWork\obj\Debug\net6.0\FirstControlWork.AssemblyInfoInputs.cache
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\ControlWork\FirstControlWork\obj\Debug\net6.0\FirstControlWork.AssemblyInfo.cs
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\ControlWork\FirstControlWork\obj\Debug\net6.0\FirstControlWork.csproj.CoreCompileInputs.cache
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\ControlWork\FirstControlWork\obj\Debug\net6.0\FirstControlWork.dll
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\ControlWork\FirstControlWork\obj\Debug\net6.0\refint\FirstControlWork.dll
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\ControlWork\FirstControlWork\obj\Debug\net6.0\FirstControlWork.pdb
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\ControlWork\FirstControlWork\obj\Debug\net6.0\FirstControlWork.genruntimeconfig.cache
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\ControlWork\FirstControlWork\obj\Debug\net6.0\ref\FirstControlWork.dll
