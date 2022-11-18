@@ -1,5 +1,7 @@
 > # Контрольные работы
 
+**№1**
+
 **По итогу прохождения первого блока обучения**
 
 Необходимо:
@@ -23,3 +25,7 @@
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 
 [“Russia”, “Denmark”, “Kazan”] → []
+
+Решение
+
+[Код](FirstControlWork/Program.cs)   |   [Блок схема](FirstControlWork/FirstControlWork.drawio.png)

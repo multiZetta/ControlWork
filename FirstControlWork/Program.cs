@@ -11,10 +11,8 @@
 
 string text = "Hello, 2, world, :-)";
 Console.WriteLine("Первоначальный массив:  " + "[" + text + "]");
-
 string[] sign = text.Split(' ');
 int count = 0;
-
 Console.Write("Сформирован новый массив: " + "[");
 foreach (var sub in sign)
 {
